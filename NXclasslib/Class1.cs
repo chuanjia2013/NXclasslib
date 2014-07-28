@@ -12,7 +12,7 @@ namespace NXclasslib
             try
             {
                 MessageBox.Show("HOLLE,MY WORLD!");
-                Console.Write("nozuonodie");
+                //Console.Write("nozuonodie");
                 return 0;
             }
             catch (Exception)
